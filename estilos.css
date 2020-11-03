@@ -1,0 +1,35 @@
+h1#titulo-ppal{
+            background-color: none;
+            text-align: center;
+            font-size: 40px;
+            padding: 15PX;          
+}
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.menu-enlaces a {
+    
+    background-color:#fca652;
+    color: mediumblue;
+    text-decoration: none;
+    float: left;
+    width: 12.5%;
+    text-align: center;
+    padding: 20px;
+    font-size:25px;
+    }
+
+.menu-enlaces a:hover{
+    background-color: mediumblue ;
+    color:gold;
+
+}
+
+#nombre{
+    font-style: initial;
+    color: maroon;
+}

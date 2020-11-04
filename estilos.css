@@ -26,10 +26,37 @@ h1#titulo-ppal{
 .menu-enlaces a:hover{
     background-color: mediumblue ;
     color:gold;
+    
 
 }
 
-#nombre{
+#subtitulo1{
     font-style: initial;
     color: maroon;
+    font-size: 35px;
+    text-align: center;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2{
+    color:red;
+  text-align: center;
+  font-size: 40px;
+}
+
+#parrafo1{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+}
+
+#linea1{
+    color:black;
+    text-align: center;
+    font-size: 30px;
 }

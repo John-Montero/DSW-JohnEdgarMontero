@@ -30,11 +30,19 @@ h1#titulo-ppal{
 
 }
 
+
 #subtitulo1{
     font-style: initial;
     color: maroon;
     font-size: 35px;
     text-align: center;
+}
+
+#subtitulo2{
+    font-style: initial;
+    color: maroon;
+    font-size: 35px;
+    text-align: left;
 }
 
 h1{
@@ -82,6 +90,12 @@ table{
     margin-left: auto;
     margin-right: auto;
     
+}
+
+.table1{
+    width: 80%;
+    margin: 40px;
+
 }
 
 .manualIdentidad {

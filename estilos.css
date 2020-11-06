@@ -1,9 +1,9 @@
 h1#titulo-ppal{
-            background-color: none;
-            text-align: center;
-            font-size: 40px;
-            padding: 15PX;          
-}
+    background-color: none;
+    text-align: center;
+    font-size: 40px;
+    padding: 15PX;          
+    }
 
 
 
@@ -53,10 +53,41 @@ h2{
     color:black;
     text-align: center;
     font-size: 30px;
+    
+}
+
+#parrafo2{
+    color:black;
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 #linea1{
     color:black;
     text-align: center;
     font-size: 30px;
+}
+
+
+#fuente{
+    color:rgb(84, 68, 228);
+    text-align: center;
+    font-size: 25px;
+}
+table{
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.manualIdentidad {
+    
+}
+
+.lista1{
+    font-size: 25px;
 }

@@ -1,5 +1,5 @@
 h1#titulo-ppal{
-    background-color: none;
+    background-color: white;
     text-align: center;
     font-size: 40px;
     padding: 15PX;          
@@ -122,4 +122,11 @@ em{
     margin-top: 50px;
     margin-left: 500px;
     margin-right: auto
+}
+
+#pdf{
+    width: 60%;
+    height: 70vh;
+    margin-top: 50px;
+    margin-left: 400px;
 }
